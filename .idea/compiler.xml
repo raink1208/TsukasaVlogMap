@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="TsukasaVLogMap.Domain" target="21" />
+      <module name="TsukasaVLogMap.Domain.main" target="21" />
+      <module name="TsukasaVLogMap.Domain.test" target="21" />
+      <module name="TsukasaVLogMap.Domains" target="21" />
+      <module name="TsukasaVLogMap.Domains.main" target="21" />
+      <module name="TsukasaVLogMap.Domains.test" target="21" />
+      <module name="TsukasaVLogMap.Protocol" target="21" />
+      <module name="TsukasaVLogMap.Protocol.main" target="21" />
+      <module name="TsukasaVLogMap.Protocol.test" target="21" />
+      <module name="TsukasaVLogMapAPI" target="21" />
+      <module name="TsukasaVlogMapAPI" target="21" />
+      <module name="TsukasaVlogMapAPI.main" target="21" />
+      <module name="TsukasaVLogMapAPI.main" target="21" />
+      <module name="TsukasaVLogMapAPI.test" target="21" />
+      <module name="TsukasaVlogMapAPI.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
